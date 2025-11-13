@@ -25,4 +25,10 @@ Solution: Redownload the script, don't open it in windows, and transfer to your 
 2. bash: ./myStartSpark.sh: Permission denied
 
 Reason: You didn't run the chmod command
+
 Solution: Run this command in the terminal: chmod +x myStartSpark.sh
+
+
+Requirements:
+- Spark 3.0.3 or higher
+- Hadoop 2.7 or higher
